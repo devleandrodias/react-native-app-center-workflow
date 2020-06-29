@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcenter"
+        applicationId "mzteck.example.react.native.typescript"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
